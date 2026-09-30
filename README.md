@@ -4,6 +4,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Platform: Windows + Linux](https://img.shields.io/badge/platform-Windows%20%2B%20Linux-blue.svg)](./README.md)
 
+![Fralculator — main screen](./docs/screenshots/fralculatorScreen_1.png)
+
 Offline-first, step-by-step desktop calculator with live graphing, unit
 conversion, voice input and the EHCalc security toolkit.
 **Windows + Linux.** AI-ready.
