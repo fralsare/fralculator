@@ -1,0 +1,22 @@
+appId: com.fralsare.fralculator
+productName: Fralculator
+directories:
+  output: release
+  buildResources: build
+files:
+  - dist/**
+  - electron/**
+  - package.json
+win:
+  target:
+    - nsis
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+linux:
+  target:
+    - AppImage
+    - deb
+  category: Utility
+  maintainDependencies: true
+npmRebuild: false

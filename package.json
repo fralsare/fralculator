@@ -1,0 +1,54 @@
+{
+  "name": "fralculator",
+  "productName": "Fralculator",
+  "version": "0.1.0",
+  "description": "AI-ready step-by-step calculator with live graphing, unit conversion and searchable history. Windows + Linux.",
+  "author": "fralsare",
+  "homepage": "https://github.com/fralsare/fralculator",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fralsare/fralculator.git"
+  },
+  "keywords": [
+    "calculator",
+    "electron",
+    "react",
+    "typescript",
+    "step-by-step",
+    "graphing",
+    "offline",
+    "whisper",
+    "natural-language"
+  ],
+  "license": "MIT",
+  "main": "electron/main.js",
+  "scripts": {
+    "dev": "vite",
+    "typecheck": "tsc --noEmit",
+    "build": "npm run typecheck && vite build",
+    "start": "npm run build && electron .",
+    "dev:electron": "npm run build && cross-env VITE_DEV_SERVER_URL=http://localhost:5173 electron .",
+    "dist": "npm run build && electron-builder",
+    "dist:win": "npm run build && electron-builder --win",
+    "dist:linux": "npm run build && electron-builder --linux"
+  },
+  "dependencies": {
+    "@huggingface/transformers": "^3.8.1",
+    "html-to-image": "^1.11.13",
+    "katex": "^0.16.11",
+    "plotly.js-dist-min": "^2.35.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "zustand": "^4.5.5"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "cross-env": "^7.0.3",
+    "electron": "^33.2.0",
+    "electron-builder": "^25.1.8",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.11"
+  }
+}
