@@ -10,13 +10,17 @@ files:
 win:
   target:
     - nsis
+    - portable
 nsis:
   oneClick: false
   allowToChangeInstallationDirectory: true
+portable:
+  artifactName: ${productName}-Portable-${version}.exe
 linux:
   target:
     - AppImage
     - deb
+    - rpm
   category: Utility
   maintainDependencies: true
 npmRebuild: false

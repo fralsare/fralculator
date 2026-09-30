@@ -50,11 +50,16 @@ npm start              # build + launch Electron
 ## Package installers
 
 ```bash
-npm run dist:win       # NSIS .exe installer (run on Windows)
-npm run dist:linux     # AppImage + .deb
+npm run dist:win       # NSIS installer + portable .exe (run on Windows)
+npm run dist:linux     # AppImage + .deb + .rpm
 ```
 
 Output lands in `release/`.
+
+**Automated releases:** pushing a tag (e.g. `v0.1.0`) runs the `Release`
+GitHub Actions workflow, which builds Windows + Linux installers on cloud
+runners and publishes them to a GitHub Release automatically — no local
+build needed (or trigger it manually: *Actions → Release → Run workflow*).
 
 ## Privacy
 
