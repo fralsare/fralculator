@@ -69,6 +69,18 @@ Output lands in `release/`.
 - [ ] Mac build (arm64 + x64)
 - [ ] Test suite for the math engine and EHCalc tools
 
+## Support the Project
+
+Fralculator is developed in my free time while I'm pursuing **cybersecurity
+studies**. If the app saves you time or you just like it, donations are the
+best way to keep it growing — every bit goes toward my studies and to keeping
+the project free and open-source.
+
+| Method | Link |
+|---|---|
+| Quick payment (Razorpay link) | [razorpay.me/@fralsare](https://razorpay.me/@fralsare) |
+| Payment page | [rzp.io/rzp/TdksERz](https://rzp.io/rzp/TdksERz) |
+
 ## License
 
 MIT — see [LICENSE](./LICENSE).
