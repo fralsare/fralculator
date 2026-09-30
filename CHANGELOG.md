@@ -4,6 +4,12 @@ All notable changes to Fralculator are documented here.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and the project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Added
+- App screenshots in the README and USER_GUIDE (step-by-step, graph,
+  history, and all five EHCalc tools).
+
 ## [0.1.0] - 2026-09-30
 
 ### Added

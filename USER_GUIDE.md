@@ -75,6 +75,8 @@ rates in the Convert drawer — both optional.
 - **Right tabs**: Steps, Graph, History, EH (the EHCalc toolkit).
 - **Convert drawer**: slides in from `⇄ Convert`.
 
+![Main screen — keypad on the left, tabbed panels on the right](./docs/screenshots/fralculatorScreen_1.png)
+
 ## 3. Basic calculations
 
 Type (or tap) any expression in the main input. The result updates as you
@@ -222,6 +224,8 @@ real math notation (KaTeX), in **PEMDAS order**, ending with a boxed answer:
   they are not errors.
 - Trig in graphs follows the DEG/RAD setting from the header.
 
+![Graph tab plotting a parabola](./docs/screenshots/fralculatorScreen_2.png)
+
 ## 10. History tab
 
 History persists between launches (stored locally on disk via localStorage).
@@ -234,6 +238,8 @@ History persists between launches (stored locally on disk via localStorage).
   result, tags) as a **PNG download** you can post in chat/screenshots.
 - Voice results appear here automatically with a `🎙 voice` tag.
 - **Clear all** empties the list (a confirmation is shown).
+
+![History tab — voice-tagged entries with tags, share and delete controls](./docs/screenshots/fralculatorScreen_3.png)
 
 ## 11. Unit & currency conversion
 
@@ -275,12 +281,16 @@ host, usable host count, host range, IP class, and private/public flag.
 Example: `192.168.1.42 /24` → 254 usable hosts, range
 `192.168.1.1 – 192.168.1.254`.
 
+![EHCalc subnet calculator](./docs/screenshots/fralculatorScreen_4.png)
+
 ### Hash
 
 Type text, click an algorithm button — hashes are computed in-app
 (WebCrypto + a local MD5 implementation): **MD5, SHA-1, SHA-256, SHA-512**.
 Results are shown per algorithm and click-to-copy.
 Use case: quick integrity checks and learning what digests look like.
+
+![EHCalc hash tool — MD5, SHA-1, SHA-256, SHA-512](./docs/screenshots/fralculatorScreen_5.png)
 
 ### Encode
 
@@ -298,6 +308,8 @@ Watch the arrows: `← ASCII` expects **numbers** (`60 45 45 45` → `<---`);
 `→ ASCII` does the reverse. If you pick the wrong direction, the error
 message tells you which button to use.
 
+![EHCalc encoders — Base64, Hex, URL, ROT13, Atbash, ASCII](./docs/screenshots/fralculatorScreen_6.png)
+
 ### Password
 
 Two tools in one:
@@ -312,11 +324,15 @@ Two tools in one:
    guarantee one character from each enabled set, and never touch storage.
    **Copy** copies to clipboard.
 
+![EHCalc password generator with length and character-set controls](./docs/screenshots/fralculatorScreen_7.png)
+
 ### Ports
 
 Search by **number** (`3389`), **service name** (`smb`), or **keyword**
 (`database`). Returns port, protocol, description, and a ⚠ risk note for
 notoriously dangerous services (RDP, Telnet, SMB…).
+
+![EHCalc port lookup with risk notes](./docs/screenshots/fralculatorScreen_8.png)
 
 ## 13. Themes and appearance
 

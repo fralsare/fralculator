@@ -16,6 +16,19 @@ Electron + React + Vite + TypeScript.
 > (`src/math/naturalLanguage.ts`, `src/ai/explain.ts`) — see the
 > [Roadmap](#roadmap) below.
 
+## Screenshots
+
+| | |
+|---|---|
+| <img src="./docs/screenshots/fralculatorScreen_1.png" width="100%" alt="Main screen — step-by-step solutions"> | <img src="./docs/screenshots/fralculatorScreen_2.png" width="100%" alt="Live graph tab"> |
+| **Step-by-step solutions** | **Live graph** |
+| <img src="./docs/screenshots/fralculatorScreen_3.png" width="100%" alt="History with voice entries, tags and sharing"> | <img src="./docs/screenshots/fralculatorScreen_4.png" width="100%" alt="EHCalc subnet calculator"> |
+| **History, tags & sharing** | **EHCalc · Subnet** |
+| <img src="./docs/screenshots/fralculatorScreen_5.png" width="100%" alt="EHCalc hashing — MD5/SHA"> | <img src="./docs/screenshots/fralculatorScreen_6.png" width="100%" alt="EHCalc encoders — Base64, Hex, URL, ROT13, Atbash, ASCII"> |
+| **EHCalc · Hash** | **EHCalc · Encode** |
+| <img src="./docs/screenshots/fralculatorScreen_7.png" width="100%" alt="EHCalc password generator with strength rating"> | <img src="./docs/screenshots/fralculatorScreen_8.png" width="100%" alt="EHCalc port lookup"> |
+| **EHCalc · Password** | **EHCalc · Ports** |
+
 ## Features
 
 | Feature | Status |
