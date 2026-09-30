@@ -4,10 +4,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Platform: Windows + Linux](https://img.shields.io/badge/platform-Windows%20%2B%20Linux-blue.svg)](./README.md)
 
-| | |
-|---|---|
-| <img src="./docs/screenshots/fralculatorScreen_main1.png" width="100%" alt="Main screen — step-by-step solutions + offline voice"> | <img src="./docs/screenshots/fralculatorScreen_main2.png" width="100%" alt="EHCalc subnet calculator"> |
-| **Step-by-step math + offline voice** | **EHCalc · Subnet** |
+![Fralculator — main screen: step-by-step solutions + offline voice](./docs/screenshots/fralculatorScreen_main1.png)
+
+![Fralculator — EHCalc subnet calculator](./docs/screenshots/fralculatorScreen_main2.png)
 
 Offline-first, step-by-step desktop calculator with live graphing, unit
 conversion, voice input and the EHCalc security toolkit.
