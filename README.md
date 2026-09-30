@@ -69,6 +69,10 @@ Output lands in `release/`.
 - [ ] Mac build (arm64 + x64)
 - [ ] Test suite for the math engine and EHCalc tools
 
+## User Guide
+
+A complete how-to for every feature — see [USER_GUIDE.md](./USER_GUIDE.md).
+
 ## Support the Project
 
 Fralculator is developed in my free time while I'm pursuing **cybersecurity
