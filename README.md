@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Platform: Windows + Linux](https://img.shields.io/badge/platform-Windows%20%2B%20Linux-blue.svg)](./README.md)
 
-![Fralculator — EHCalc port lookup](./docs/screenshots/fralculatorScreen_8.png)
+![Fralculator — EHCalc port lookup](./docs/screenshots/fralculatorScreen_6.png)
 
 Offline-first, step-by-step desktop calculator with live graphing, unit
 conversion, voice input and the EHCalc security toolkit.
@@ -22,13 +22,13 @@ Electron + React + Vite + TypeScript.
 
 | | |
 |---|---|
-| <img src="./docs/screenshots/fralculatorScreen_1.png" width="100%" alt="Main screen — step-by-step solutions"> | <img src="./docs/screenshots/fralculatorScreen_2.png" width="100%" alt="Live graph tab"> |
+| <img src="./docs/screenshots/fralculatorScreen_main1.png" width="100%" alt="Main screen — step-by-step solutions + offline voice"> | <img src="./docs/screenshots/fralculatorScreen_1.png" width="100%" alt="Live graph tab"> |
 | **Step-by-step solutions** | **Live graph** |
-| <img src="./docs/screenshots/fralculatorScreen_3.png" width="100%" alt="History with voice entries, tags and sharing"> | <img src="./docs/screenshots/fralculatorScreen_4.png" width="100%" alt="EHCalc subnet calculator"> |
+| <img src="./docs/screenshots/fralculatorScreen_2.png" width="100%" alt="History with voice entries, tags and sharing"> | <img src="./docs/screenshots/fralculatorScreen_main2.png" width="100%" alt="EHCalc subnet calculator"> |
 | **History, tags & sharing** | **EHCalc · Subnet** |
-| <img src="./docs/screenshots/fralculatorScreen_5.png" width="100%" alt="EHCalc hashing — MD5/SHA"> | <img src="./docs/screenshots/fralculatorScreen_6.png" width="100%" alt="EHCalc encoders — Base64, Hex, URL, ROT13, Atbash, ASCII"> |
+| <img src="./docs/screenshots/fralculatorScreen_3.png" width="100%" alt="EHCalc hashing — MD5/SHA"> | <img src="./docs/screenshots/fralculatorScreen_4.png" width="100%" alt="EHCalc encoders — Base64, Hex, URL, ROT13, Atbash, ASCII"> |
 | **EHCalc · Hash** | **EHCalc · Encode** |
-| <img src="./docs/screenshots/fralculatorScreen_7.png" width="100%" alt="EHCalc password generator with strength rating"> | <img src="./docs/screenshots/fralculatorScreen_8.png" width="100%" alt="EHCalc port lookup"> |
+| <img src="./docs/screenshots/fralculatorScreen_5.png" width="100%" alt="EHCalc password generator with strength rating"> | <img src="./docs/screenshots/fralculatorScreen_6.png" width="100%" alt="EHCalc port lookup"> |
 | **EHCalc · Password** | **EHCalc · Ports** |
 
 ## Features

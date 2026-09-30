@@ -7,8 +7,9 @@ and the project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.
 ## [Unreleased]
 
 ### Added
-- App screenshots in the README and USER_GUIDE (step-by-step, graph,
-  history, and all five EHCalc tools).
+- App screenshots in the README and USER_GUIDE — 8-image set in
+  `docs/screenshots/` (`main1`, `main2`, `1`–`6`): main screen, subnet,
+  graph, history, and all five EHCalc tools.
 
 ## [0.1.0] - 2026-09-30
 
