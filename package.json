@@ -3,7 +3,10 @@
   "productName": "Fralculator",
   "version": "0.1.0",
   "description": "Offline-first, step-by-step calculator with live graphing, unit conversion, voice input and the EHCalc security toolkit. Windows + Linux. AI-ready",
-  "author": "fralsare",
+  "author": {
+    "name": "fralsare",
+    "email": "fralsare@tutamail.com"
+  },
   "homepage": "https://github.com/fralsare/fralculator",
   "repository": {
     "type": "git",

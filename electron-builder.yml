@@ -22,5 +22,4 @@ linux:
     - deb
     - rpm
   category: Utility
-  maintainDependencies: true
 npmRebuild: false
