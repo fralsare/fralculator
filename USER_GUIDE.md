@@ -29,8 +29,18 @@ features. Everything in this guide assumes the app is installed
 
 ## 1. First run
 
-- **Windows**: run the installer, launch *Fralculator* from the Start menu.
-- **Linux**: double-click the AppImage, or install the `.deb`.
+Pick one from the latest [GitHub Release](https://github.com/fralsare/fralculator/releases):
+
+| File | Who it's for |
+|---|---|
+| `Fralculator Setup x.y.z.exe` | Windows — classic installer (Start menu, uninstaller) |
+| `Fralculator-Portable-x.y.z.exe` | Windows — single file, no install; run from anywhere (USB stick friendly) |
+| `Fralculator-x.y.z.AppImage` | Linux — no install; `chmod +x` then double-click |
+| `fralculator_x.y.z_amd64.deb` | Debian/Ubuntu — `sudo dpkg -i fralculator_x.y.z_amd64.deb` |
+| `fralculator-x.y.z.x86_64.rpm` | Fedora/openSUSE/RHEL — `sudo rpm -i fralculator-x.y.z.x86_64.rpm` |
+
+(Replace `x.y.z` with the actual version, e.g. `0.1.0`.)
+
 - **From source**: `npm install && npm start`.
 
 The app is fully usable offline from the first launch. The only two things
