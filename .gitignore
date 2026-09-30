@@ -12,6 +12,9 @@ npm-debug.log*
 .env
 .env.*
 
+# Local-only media (banners, promos)
+ignore/
+
 # Editor / OS
 .vscode/
 .idea/
