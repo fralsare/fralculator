@@ -22,7 +22,7 @@ jobs:
       - run: npm ci
       - run: npm run build
       - name: Package (NSIS + portable)
-        run: npx electron-builder --win --x64
+        run: npx electron-builder --win --x64 --publish never
       # v4 (current tag)
       - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
         with:
@@ -46,7 +46,7 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y rpm
       # targets come from electron-builder.yml: AppImage, deb, rpm
       - name: Package (AppImage + deb + rpm)
-        run: npx electron-builder --linux --x64
+        run: npx electron-builder --linux --x64 --publish never
       # v4 (current tag)
       - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
         with:

@@ -23,3 +23,6 @@ linux:
     - rpm
   category: Utility
 npmRebuild: false
+# Releases are created by the publish job (softprops/action-gh-release);
+# stop electron-builder from trying to publish on its own when a tag is set.
+publish: null
