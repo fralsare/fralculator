@@ -4,11 +4,17 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Platform: Windows + Linux](https://img.shields.io/badge/platform-Windows%20%2B%20Linux-blue.svg)](./README.md)
 
-AI-ready, step-by-step desktop calculator. **Windows + Linux.**
+Offline-first, step-by-step desktop calculator with live graphing, unit
+conversion, voice input and the EHCalc security toolkit.
+**Windows + Linux.** AI-ready.
+
 Electron + React + Vite + TypeScript.
 
 > Everything runs offline: the math engine, natural-language input, graphing,
 > voice (Whisper WASM), and the EHCalc toolkit all work with no backend.
+> The **AI-ready** part: backend registries are in place for a local LLM
+> (`src/math/naturalLanguage.ts`, `src/ai/explain.ts`) — see the
+> [Roadmap](#roadmap) below.
 
 ## Features
 

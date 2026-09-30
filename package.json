@@ -2,7 +2,7 @@
   "name": "fralculator",
   "productName": "Fralculator",
   "version": "0.1.0",
-  "description": "AI-ready step-by-step calculator with live graphing, unit conversion and searchable history. Windows + Linux.",
+  "description": "Offline-first, step-by-step calculator with live graphing, unit conversion, voice input and the EHCalc security toolkit. Windows + Linux. AI-ready",
   "author": "fralsare",
   "homepage": "https://github.com/fralsare/fralculator",
   "repository": {
