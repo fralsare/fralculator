@@ -69,12 +69,6 @@ Output lands in `release/`.
 - [ ] Mac build (arm64 + x64)
 - [ ] Test suite for the math engine and EHCalc tools
 
-## Contributing
-
-See [CONTRIBUTING.md](./CONTRIBUTING.md). Issues and PRs are welcome —
-read [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for community standards and
-[SECURITY.md](./SECURITY.md) for responsible vulnerability disclosure.
-
 ## License
 
 MIT — see [LICENSE](./LICENSE).
