@@ -152,19 +152,9 @@ offline afterwards. Results auto-commit to history tagged `voice`.
 
 <h2 align="center" style="color:#2ea043">🙏 Support the Project</h2>
 
-<p align="center">Fralculator is developed in my free time while I'm pursuing</p>
-<p align="center"><b>cybersecurity studies</b>. If the app saves you time or you</p>
-<p align="center">just like it, donations are the best way to keep it growing —</p>
-<p align="center">every bit goes toward my studies and to keeping the project</p>
-<p align="center">free and open-source.</p>
+<p style="color:#2ea043"><b>Fralculator is developed in my free time while I'm pursuing cybersecurity studies.</b> If the app saves you time or you just like it, donations are the best way to keep it growing — every bit goes toward my studies and to keeping the project free and open-source.</p>
 
-<table align="center">
-  <tr>
-    <td>Quick payment (Razorpay link)</td>
-    <td><b><a href="https://razorpay.me/@fralsare">razorpay.me/@fralsare</a></b></td>
-  </tr>
-  <tr>
-    <td>Payment page</td>
-    <td><b><a href="https://rzp.io/rzp/TdksERz">rzp.io/rzp/TdksERz</a></b></td>
-  </tr>
-</table>
+| Method | Link |
+|---|---|
+| Quick payment (Razorpay link) | <b><a href="https://razorpay.me/@fralsare">razorpay.me/@fralsare</a></b> |
+| Payment page | <b><a href="https://rzp.io/rzp/TdksERz">rzp.io/rzp/TdksERz</a></b> |

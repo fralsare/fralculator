@@ -12,8 +12,9 @@ and the project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.
   graph, history, and all five EHCalc tools.
 
 ### Changed
-- README: "🙏 Support the Project" moved to the end with a centered,
-  color-coded heading so the donation links stand out.
+- README: "🙏 Support the Project" moved to the end and restyled —
+  color-coded heading and full-width paragraph text so the donation
+  links stand out without wasting space.
 
 ## [0.1.0] - 2026-09-30
 
