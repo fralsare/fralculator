@@ -15,6 +15,9 @@ and the project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.
 - README: "🙏 Support the Project" moved to the end and restyled —
   color-coded heading and full-width paragraph text so the donation
   links stand out without wasting space.
+- README: support section retitled "🙏 Support open-source tool
+  development" with updated copy (CyberSecurity studies + new
+  open-source projects) and a PayPal payment link alongside Razorpay.
 
 ## [0.1.0] - 2026-09-30
 

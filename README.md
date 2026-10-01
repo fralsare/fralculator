@@ -150,11 +150,11 @@ Then register it in `backends` / `aiBackends`; the UI needs no changes.
 First run downloads the ~40 MB model and caches it in IndexedDB — fully
 offline afterwards. Results auto-commit to history tagged `voice`.
 
-<h2 align="center" style="color:#2ea043">🙏 Support the Project</h2>
+<h2 align="center" style="color:#2ea043">🙏 Support open-source tool development</h2>
 
-<p style="color:#2ea043"><b>Fralculator is developed in my free time while I'm pursuing cybersecurity studies.</b> If the app saves you time or you just like it, donations are the best way to keep it growing — every bit goes toward my studies and to keeping the project free and open-source.</p>
+<p style="color:#2ea043"><b>Your donation keeps this project maintained and funds new open-source projects, while supporting my CyberSecurity studies.</b> Even a small amount makes a real difference. Thank you for supporting independent open-source work!</p>
 
 | Method | Link |
 |---|---|
-| Quick payment (Razorpay link) | <b><a href="https://razorpay.me/@fralsare">razorpay.me/@fralsare</a></b> |
-| Payment page | <b><a href="https://rzp.io/rzp/TdksERz">rzp.io/rzp/TdksERz</a></b> |
+| PayPal | <b><a href="https://www.paypal.com/ncp/payment/KKFBWQP97XUCN">paypal.com/ncp/payment/KKFBWQP97XUCN</a></b> |
+| Razorpay | <b><a href="https://rzp.io/rzp/TdksERz">rzp.io/rzp/TdksERz</a></b> |
