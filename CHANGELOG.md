@@ -11,6 +11,10 @@ and the project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.
   `docs/screenshots/` (`main1`, `main2`, `1`–`6`): main screen, subnet,
   graph, history, and all five EHCalc tools.
 
+### Changed
+- README: "🙏 Support the Project" moved to the end with a centered,
+  color-coded heading so the donation links stand out.
+
 ## [0.1.0] - 2026-09-30
 
 ### Added

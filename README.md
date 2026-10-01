@@ -99,18 +99,6 @@ build needed (or trigger it manually: *Actions → Release → Run workflow*).
 
 A complete how-to for every feature — see [USER_GUIDE.md](./USER_GUIDE.md).
 
-## Support the Project
-
-Fralculator is developed in my free time while I'm pursuing **cybersecurity
-studies**. If the app saves you time or you just like it, donations are the
-best way to keep it growing — every bit goes toward my studies and to keeping
-the project free and open-source.
-
-| Method | Link |
-|---|---|
-| Quick payment (Razorpay link) | [razorpay.me/@fralsare](https://razorpay.me/@fralsare) |
-| Payment page | [rzp.io/rzp/TdksERz](https://rzp.io/rzp/TdksERz) |
-
 ## License
 
 MIT — see [LICENSE](./LICENSE).
@@ -161,3 +149,22 @@ Then register it in `backends` / `aiBackends`; the UI needs no changes.
 `VoiceButton` streams mic audio to a Web Worker running Whisper-tiny (WASM).
 First run downloads the ~40 MB model and caches it in IndexedDB — fully
 offline afterwards. Results auto-commit to history tagged `voice`.
+
+<h2 align="center" style="color:#2ea043">🙏 Support the Project</h2>
+
+<p align="center">Fralculator is developed in my free time while I'm pursuing</p>
+<p align="center"><b>cybersecurity studies</b>. If the app saves you time or you</p>
+<p align="center">just like it, donations are the best way to keep it growing —</p>
+<p align="center">every bit goes toward my studies and to keeping the project</p>
+<p align="center">free and open-source.</p>
+
+<table align="center">
+  <tr>
+    <td>Quick payment (Razorpay link)</td>
+    <td><b><a href="https://razorpay.me/@fralsare">razorpay.me/@fralsare</a></b></td>
+  </tr>
+  <tr>
+    <td>Payment page</td>
+    <td><b><a href="https://rzp.io/rzp/TdksERz">rzp.io/rzp/TdksERz</a></b></td>
+  </tr>
+</table>
